@@ -19,7 +19,7 @@ Predict future sales using historical data trends.
 Steps to Reproduce
 Download the dataset provided in this repository.
 Open Power BI Desktop and import the dataset.
-Follow the Power BI report (.pbix) file included in the repository for reference.
+Follow the Power BI report pdf file included in the repository for reference.
 Modify the visualizations or customize them as needed.
 Results
 Clear and actionable insights into sales performance.
